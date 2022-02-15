@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ra-hw-13_saga_1-search/static/css/main.fe64f5ff.css",
+    "main.js": "/ra-hw-13_saga_1-search/static/js/main.7252fd5c.js",
+    "static/media/Montserrat-Regular.woff2": "/ra-hw-13_saga_1-search/static/media/Montserrat-Regular.4d9eac545dbd8e6e6e7d.woff2",
+    "static/media/Montserrat-Regular.woff": "/ra-hw-13_saga_1-search/static/media/Montserrat-Regular.2f9bb87d767918726ee3.woff",
+    "index.html": "/ra-hw-13_saga_1-search/index.html",
+    "main.fe64f5ff.css.map": "/ra-hw-13_saga_1-search/static/css/main.fe64f5ff.css.map",
+    "main.7252fd5c.js.map": "/ra-hw-13_saga_1-search/static/js/main.7252fd5c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe64f5ff.css",
+    "static/js/main.7252fd5c.js"
+  ]
+}
