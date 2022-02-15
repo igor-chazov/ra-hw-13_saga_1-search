@@ -1,0 +1,19 @@
+.skills__wrapper {
+  width: 1200px;
+  margin: auto;
+}
+
+.search-field {
+  width: 100%;
+  border: 1px solid silver;
+  outline: none;
+  border-radius: 5px;
+  padding: 0.5rem 0.8rem;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
+.search-field:focus {
+  outline: 1px solid grey;
+  outline-offset: -1px;
+}
